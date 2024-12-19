@@ -1,0 +1,23 @@
+@media (max-width: 944px) {
+  html {
+    font-size: 50%;
+  }
+  .hero {
+    gap: 6rem;
+    grid-template-columns: 1fr;
+    padding: 0 8rem;
+  }
+  .hero-text-box {
+    text-align: center;
+  }
+  .heading-primary {
+    font-size: 4.4rem;
+  }
+
+  .hero-img-box {
+    text-align: center;
+  }
+  .hero-img {
+    width: 60%;
+  }
+}
